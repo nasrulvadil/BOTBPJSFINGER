@@ -1,0 +1,7 @@
+[config]
+username = 0113R029-DIAN
+password = Dian99@AH
+pathaplfg = C:/Program Files (x86)/BPJS Kesehatan/Aplikasi Sidik Jari BPJS Kesehatan/After.exe
+carinokartu = https://192.168.20.90:5914/rsu_depok/index.php?mod=person_noheader&cmd=cari_noka_kios_new
+simpannokartu = https://192.168.20.90:5914/rsu_depok/index.php?mod=person_noheader&cmd=insert_noka_kios_new
+kiosk = 1
